@@ -1,12 +1,12 @@
 <script>
 import AppHeader from './components/AppHeader.vue';
-import ProductList from './components/ProductList.vue';
+import ListProducts from './components/ListProducts.vue';
 import AppFooter from './components/AppFooter.vue';
 
 export default {
   components: {
     AppHeader,
-    ProductList,
+    ListProducts,
     AppFooter,
   }
 }
